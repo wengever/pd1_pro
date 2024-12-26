@@ -1,0 +1,1 @@
+char* getAnswer2(char testcase[51]);

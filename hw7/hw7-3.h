@@ -1,0 +1,1 @@
+void ParsingData(char command[21], char string1[21], char string2[21]);
